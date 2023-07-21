@@ -2,5 +2,6 @@ Aplikasi 1
 data 1
 data 2
 data 3
-fiitur 1
+fitur 1
 data 4
+data 5
